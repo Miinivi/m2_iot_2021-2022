@@ -1,3 +1,5 @@
+Projet DOCKER LAM-V 
+
 Erreur rencontrée : 
 https://kb.vmware.com/s/article/2146361
 
@@ -9,3 +11,6 @@ https://docs.microsoft.com/fr-fr/troubleshoot/windows-client/application-managem
 
 Solution éventuelle : 
 https://www.virtualbox.org/
+
+Problèmes de VM en tous genres, donc passage sur docker desktop
+Souhait de faire quelque chose de fonctionnel avant toute chose 
